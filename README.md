@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align=center>Hi there 🔥</h1>
 
-<!--
-**ex-vi/ex-vi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align=center>
+I'm Matt - a Full-stack Engineer focused on developing APIs and cloud systems.
+<br>
+I have experience in building small-scale ecosystems, SaaS & PaaS products, solutions
+<br>
+for technical support teams, countless chat bots and advertising automation tools.
+<br><br>
+At the moment my main tools are Go, Python and Next.js.
+<br><br>
+You may contact me on <a href="https://www.linkedin.com/in/matt-exvi/">Linkedin</a> or send an <a href="mailto:dev.ex.vi@gmail.com">email<a/>.
+</p>
+  
