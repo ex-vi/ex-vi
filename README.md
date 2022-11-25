@@ -7,7 +7,7 @@ I have experience in building small-scale ecosystems, SaaS & PaaS products, solu
 <br>
 for technical support teams, countless chat bots and advertising automation tools.
 <br><br>
-At the moment my main tools are Go, Python and Next.js.
+At the moment my main tools are Go, TypeScript and Next.js.
 <br><br>
 You may contact me on <a href="https://www.linkedin.com/in/matt-exvi/">Linkedin</a> or send an <a href="mailto:dev.ex.vi@gmail.com">email<a/>.
 </p>
